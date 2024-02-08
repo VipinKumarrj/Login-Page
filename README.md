@@ -34,7 +34,7 @@ https://github.com/VipinKumarrj/Login-Page/assets/91338595/335b9186-9b73-423f-84
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/modern-login-page.git
+    git clone [https://github.com/your-username/modern-login-page.git](https://github.com/VipinKumarrj/Login-Page.git)
     ```
 
 2. Open the `index.html` file in your preferred web browser.
